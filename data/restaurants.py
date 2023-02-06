@@ -47,5 +47,3 @@ def get_restaurants(coordinates, desired_price,radius):
     return preference_output if preference_output else "there are no restaurants at this price range in your radius"
 
 
-# print statement to test above code in atlanta at price point 1
-#print(get_restaurants("33.755960,-84.405130", 1,5000))

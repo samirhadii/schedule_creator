@@ -28,6 +28,3 @@ def get_bars(coordinates, desired_price, radius):
         if value == desired_price:
             preference_output.append(key)
     return preference_output if preference_output else "there are no bars at this price range in your radius"
-
-# test shopping at mall of georgia
-#print(get_bars("33.755960,-84.405130", 1,5000))

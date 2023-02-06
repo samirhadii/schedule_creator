@@ -24,5 +24,3 @@ def get_shopping(coordinates,radius):
 
     return names
     
-
-#print(get_shopping("33.755960,-84.405130",5000))

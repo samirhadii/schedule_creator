@@ -39,9 +39,3 @@ def get_coords(street, city, state, zipcode):
     return latlong
 
 
-# if __name__ == "__main__":
-#     street = "55 Maple ST NW"
-#     city = "Atlanta"
-#     state = "Georgia"
-#     zipcode = "30313"
-#     print(get_coords(street,city,state,zipcode))

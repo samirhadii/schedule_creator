@@ -31,5 +31,3 @@ def set_schedule(coordinates, desired_price, radius):
     return schedule
 
 
-
-#print(set_schedule("33.952095,-83.375293", 2, 5000))
